@@ -2,6 +2,11 @@
   <img src="https://github.com/KaotoIO/kaoto.io/blob/main/assets/media/logo-kaoto.png" alt="Kaoto">
 </h1>
 
+ **⚠️ Deprecation Notice**
+>
+> This repository is deprecated and is no longer maintained.
+> The Camel catalog has moved to: [KaotoIO/camel-catalog](https://github.com/KaotoIO/camel-catalog).
+> Please use the new repository for all future updates and contributions.
 <p align=center>
   <a href="https://github.com/KaotoIO/catalogs/blob/main/LICENSE"><img src="https://img.shields.io/github/license/KaotoIO/catalogs?color=blue&style=for-the-badge" alt="License"/></a>
   <a href="https://www.youtube.com/@KaotoIO"><img src="https://img.shields.io/badge/Youtube-Follow-brightgreen?color=red&style=for-the-badge" alt="Youtube"" alt="Follow on Youtube"></a>
